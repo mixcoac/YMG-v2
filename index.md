@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Your Mum Gay License (YMG) - Version 2
+## A semi-permissive open source license that calls you slurs if you steal code.
+---
 
-You can use the [editor on GitHub](https://github.com/CITIZENSIXTYNINE/YMG-v2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# What is the YMG2 license?
+The "Your Mum Gay" license is a "shitpost" license made to combat code stealing by allowing you to call the thief slurs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# What benefits do I get from using the YMG2 license?
 
-### Markdown
+None. You only get the right to call the individual/corporation a bunch of names.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How do I use the YMG2 license?
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+You just copy and paste this codeblock into your `LICENSE` file, add your data in the fields below.
 ```
+COPYRIGHT (c) <YEAR> <COPYRIGHT HOLDERS> <EMAIL>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The following piece or pieces of software are provided "as is" without any expressed or implied warranty in any way (directly or indirectly). In no event or circumstance will the authors be held liable for any damages caused over the the use of this software and its derivatives.
 
-### Jekyll Themes
+Permission to use, copy, modify and/or distribute this piece of software and its derivatives for any purpose with or without fee is hereby granted, provided that the following restrictions are followed:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CITIZENSIXTYNINE/YMG-v2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- The copyright notice listed above shall be included in all copies or substantial portions of the Software.
 
-### Support or Contact
+- The software may not be sold/distributed as part of a closed source piece of software. (Example: an closed source operating system)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+IF YOU DO NOT FOLLOW THE RESTRICTIONS LISTED ABOVE, AND/OR DON'T GIVE PROPER CREDIT TO THE COPYRIGHT HOLDERS LISTED AT THE TOP OF THE DOCUMENT:
+
+- Your Mother is gay
+- Your Grandmother is transgender
+- Nobody likes you
+- You're more worthless than a piece of shit
+- The only pussy you have ever touched is your pet cat
+- You shall release the piece of software as open source WITH the previously mentioned restrictions and give credit to the Copyright holders listed at the top of this document.
+```
