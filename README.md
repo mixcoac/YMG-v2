@@ -1,14 +1,17 @@
 # Your Mum Gay License (YMG) - Version 2
-## A semi-permissive open source license made by a scrawny 13 year old
+## A semi-permissive open source license that calls you slurs if you steal code.
+---
 
-This is the YMGv2 license, a semi-permissive license made by a 13 year old with a lot of time. The YMGv2 license adds protections like:
-- Calling your mother a homosexual individual
-- Calling your grandmother a transgender individual
-- Informing you that nobody in your social circle likes you
-- Telling you that your net worth is less of a piece of excrement
-- Informing you that the only "pussy" you've ever touched if your feline mascot.
-- Kindly asking you to release the source code with the restrictions (listed below) and to provide credit to the copyright holders listed at the start of the document
+# What is the YMG2 license?
+The "Your Mum Gay" license is a "shitpost" license made to combat code stealing by allowing you to call the thief slurs.
 
+# What benefits do I get from using the YMG2 license?
+
+None. You only get the right to call the individual/corporation a bunch of names.
+
+# How do I use the YMG2 license?
+
+You just copy and paste this codeblock into your `LICENSE` file, add your data in the fields below.
 ```
 COPYRIGHT (c) <YEAR> <COPYRIGHT HOLDERS> <EMAIL>
 
