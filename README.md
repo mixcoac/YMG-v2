@@ -2,14 +2,14 @@
 ## A semi-permissive open source license that calls you slurs if you steal code.
 ---
 
-# What is the YMG2 license?
+## What is the YMG2 license?
 The "Your Mum Gay" license is a "shitpost" license made to combat code stealing by allowing you to call the thief slurs.
 
-# What benefits do I get from using the YMG2 license?
+## What benefits do I get from using the YMG2 license?
 
 None. You only get the right to call the individual/corporation a bunch of names.
 
-# How do I use the YMG2 license?
+## How do I use the YMG2 license?
 
 You just copy and paste this codeblock into your `LICENSE` file, add your data in the fields below.
 ```
